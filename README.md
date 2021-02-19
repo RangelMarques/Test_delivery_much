@@ -39,6 +39,7 @@ npx cypress run
 ================================================================
 <p>4.Caso queria visualizar o relatório já gerado no dashboard do cypress, acessar com a conta do google o link:
 </p>
+
 ```bash
 https://dashboard.cypress.io/projects/gfnnn9/runs/1/
 ```
@@ -51,8 +52,6 @@ link direto do projeto:
 ```bash
 https://dashboard.cypress.io/projects/gfnnn9/runs/1/test-results/instance/97b32b67-1b4d-4e16-9945-0036a0cf44af/stdout?utm_source=Dashboard&utm_medium=Share+URL&utm_campaign=Output
 ```
-<p>email: testqualitydeliverymuch.alvaro@gmail.com</p>
-<p>senha: delivery123456</p>
 
 ================================================================
 
