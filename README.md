@@ -37,7 +37,7 @@ npx cypress run
 ![installing-cli e1693232](https://user-images.githubusercontent.com/1271364/31740846-7bf607f0-b420-11e7-855f-41c996040d31.gif)
 
 ================================================================
-<p>4.Caso queria visualizar o relatório já gerado no dashboard do cypress, acessar com a conta do google o link:
+<p>4. Caso queria visualizar o relatório já gerado no dashboard do cypress, acessar com a conta do google o link:
 </p>
 
 ```bash
@@ -55,10 +55,9 @@ https://dashboard.cypress.io/projects/gfnnn9/runs/1/test-results/instance/97b32b
 
 ================================================================
 
-<p>5.Para gerar novo relatório, rodar comando abaixo no terminal:</p>
+<p>5. Para gerar novo relatório, rodar comando abaixo no terminal:</p>
 
 ```bash
 cypress run --record --key 3ad65668-3bfa-49b2-935d-98c0a4f93f94
 ```
 
- 
