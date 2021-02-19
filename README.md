@@ -37,12 +37,13 @@ npx cypress run
 ![installing-cli e1693232](https://user-images.githubusercontent.com/1271364/31740846-7bf607f0-b420-11e7-855f-41c996040d31.gif)
 
 ================================================================
-Caso queria visualizar o relatório já gerado no dashboard do cypress, acessar com a conta do google o link:
+<p>Caso queria visualizar o relatório já gerado no dashboard do cypress, acessar com a conta do google o link:
+</p>
 
 https://dashboard.cypress.io/projects/gfnnn9/runs/1/
 
-email: testqualitydeliverymuch.alvaro@gmail.com
-senha: delivery123456
+<p>email: testqualitydeliverymuch.alvaro@gmail.com </p>
+<p>senha: delivery123456</p>
 
 ou
 
