@@ -55,7 +55,7 @@ https://dashboard.cypress.io/projects/gfnnn9/runs/1/test-results/instance/97b32b
 
 ================================================================
 
-Para gerar novo relatório, rodar comando abaixo no terminal:
+<p>5.Para gerar novo relatório, rodar comando abaixo no terminal:</p>
 ```bash
 cypress run --record --key 3ad65668-3bfa-49b2-935d-98c0a4f93f94
 ```
